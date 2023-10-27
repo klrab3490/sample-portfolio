@@ -36,5 +36,5 @@ To begin your journey with HTML and CSS development, follow these steps:
 2. **Clone your fork**: Use the following command to clone your fork to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/your-forked-repo.git
+   https://github.com/klrab3490/sample-portfolio.git
 d
