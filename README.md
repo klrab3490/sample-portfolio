@@ -37,4 +37,3 @@ To begin your journey with HTML and CSS development, follow these steps:
 
    ```sh
    https://github.com/klrab3490/sample-portfolio.git
-d
