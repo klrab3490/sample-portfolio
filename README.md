@@ -1,4 +1,5 @@
-# sample-portfolio# Getting Started with HTML and CSS
+# sample-portfolio
+# Getting Started with HTML and CSS
 
 Welcome to the beginner's guide to HTML and CSS development! This guide is designed to help junior students kickstart their journey into the world of web development. Whether you're a complete novice or have some basic understanding, you'll find the resources and steps you need to get started.
 
